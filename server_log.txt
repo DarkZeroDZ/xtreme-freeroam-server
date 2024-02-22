@@ -1,0 +1,320 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3x, (C)2005-2013 SA-MP Team
+
+[22:45:13] filterscripts = ""  (string)
+[22:45:13] 
+[22:45:13] Server Plugins
+[22:45:13] --------------
+[22:45:13]  Loading plugin: streamer.dll
+[22:45:13] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[22:45:13]   Loaded.
+[22:45:13]  Loaded 1 plugins.
+
+[22:45:13] 
+[22:45:13] Ban list
+[22:45:13] --------
+[22:45:13]  Loaded: samp.ban
+[22:45:13] 
+[22:45:13] I couldn't load any gamemode scripts. Please verify your server.cfg
+[22:45:13] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3x, (C)2005-2013 SA-MP Team
+
+[22:46:06] filterscripts = ""  (string)
+[22:46:06] 
+[22:46:06] Server Plugins
+[22:46:06] --------------
+[22:46:06]  Loading plugin: streamer.dll
+[22:46:06] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[22:46:06]   Loaded.
+[22:46:06]  Loaded 1 plugins.
+
+[22:46:06] 
+[22:46:06] Ban list
+[22:46:06] --------
+[22:46:06]  Loaded: samp.ban
+[22:46:06] 
+[22:46:06] 
+[22:46:06] Filterscripts
+[22:46:06] ---------------
+[22:46:06]   Loaded 0 filterscripts.
+
+[22:46:06] Gamemode wird geladen...
+[22:46:06] Accounts werden geladen...
+[22:46:06] Rennen werden geladen...
+[22:46:06] Anticheat wird geladen...
+[22:46:06] Haeuser werden geladen...
+[22:46:06] 
+----------------------------------
+[22:46:06]  XFS by $kill Reloaded wurde erfolgreich gestartet.
+[22:46:06] ----------------------------------
+
+[22:46:06] Number of vehicle models: 174
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[22:46:25] filterscripts = ""  (string)
+[22:46:25] 
+[22:46:25] Server Plugins
+[22:46:25] --------------
+[22:46:25]  Loading plugin: streamer.dll
+[22:46:25] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[22:46:25]   Loaded.
+[22:46:25]  Loaded 1 plugins.
+
+[22:46:25] 
+[22:46:25] Ban list
+[22:46:25] --------
+[22:46:25]  Loaded: samp.ban
+[22:46:25] 
+[22:46:25] 
+[22:46:25] Filterscripts
+[22:46:25] ---------------
+[22:46:25]   Loaded 0 filterscripts.
+
+[22:46:25] Gamemode wird geladen...
+[22:46:25] Accounts werden geladen...
+[22:46:25] Rennen werden geladen...
+[22:46:25] Anticheat wird geladen...
+[22:46:25] Haeuser werden geladen...
+[22:46:26] 
+----------------------------------
+[22:46:26]  XFS by $kill Reloaded wurde erfolgreich gestartet.
+[22:46:26] ----------------------------------
+
+[22:46:26] Number of vehicle models: 174
+[22:46:50] Incoming connection: 192.168.1.5:55344
+[22:46:50] [join] [PrX]Ruediger has joined the server (0:192.168.1.5)
+[22:47:10] [register] [PrX]Ruediger registred.
+[22:48:02] [command] [[PrX]Ruediger] /cancel
+[22:48:08] [command] [[PrX]Ruediger] /cancel
+[22:48:16] [command] [[PrX]Ruediger] /cancel
+[22:48:31] [command] [[PrX]Ruediger] /cancel
+[22:48:35] [command] [[PrX]Ruediger] /cancel
+[22:48:39] [command] [[PrX]Ruediger] /cancel
+[22:48:43] [command] [[PrX]Ruediger] /cancel
+[22:48:54] [race] Server loaded race "Vinewood Rallye".
+[22:49:10] [race] The race has started.
+[22:50:38] [race] [PrX]Ruediger made a new record. (3rd)
+[22:50:38] [race] [PrX]Ruediger made a new record. (2nd)
+[22:50:38] [race] [PrX]Ruediger made a new record. (1st)
+[22:50:38] [race] [PrX]Ruediger finished the race. (1st)
+[22:50:38] [race] The race has finished.
+[22:50:55] [derby] [PrX]Ruediger choosed map "LS Forum".
+[22:51:25] [derby] The derby has finished.
+[22:51:25] [derby] The derby has finished.
+[22:51:32] [part] [PrX]Ruediger has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[09:17:32] filterscripts = ""  (string)
+[09:17:32] 
+[09:17:32] Server Plugins
+[09:17:32] --------------
+[09:17:32]  Loading plugin: streamer.dll
+[09:17:33] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[09:17:33]   Loaded.
+[09:17:33]  Loaded 1 plugins.
+
+[09:17:33] 
+[09:17:33] Ban list
+[09:17:33] --------
+[09:17:33]  Loaded: samp.ban
+[09:17:33] 
+[09:17:33] 
+[09:17:33] Filterscripts
+[09:17:33] ---------------
+[09:17:33]   Loaded 0 filterscripts.
+
+[09:17:33] Gamemode wird geladen...
+[09:17:33] Accounts werden geladen...
+[09:17:33] Rennen werden geladen...
+[09:17:33] Anticheat wird geladen...
+[09:17:33] Haeuser werden geladen...
+[09:17:33] 
+----------------------------------
+[09:17:33]  XFS by $kill Reloaded wurde erfolgreich gestartet.
+[09:17:33] ----------------------------------
+
+[09:17:33] Number of vehicle models: 174
+[09:18:14] --- Server Shutting Down.
+[09:18:14] [derby] The derby has finished.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:18:45] filterscripts = ""  (string)
+[09:18:45] 
+[09:18:45] Server Plugins
+[09:18:45] --------------
+[09:18:45]  Loading plugin: streamer.dll
+[09:18:45] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[09:18:45]   Loaded.
+[09:18:45]  Loaded 1 plugins.
+
+[09:18:45] 
+[09:18:45] Ban list
+[09:18:45] --------
+[09:18:45]  Loaded: samp.ban
+[09:18:45] 
+[09:18:46] 
+[09:18:46] Filterscripts
+[09:18:46] ---------------
+[09:18:46]   Loaded 0 filterscripts.
+
+[09:18:46] Gamemode will get loaded...
+[09:18:46] Loading accounts...
+[09:18:46] Loading races...
+[09:18:46] Loading anticheat...
+[09:18:46] Loading houses...
+[09:18:46] 
+----------------------------------
+[09:18:46]  XFS by Eagles-Clan wurde erfolgreich gestartet.
+[09:18:46] ----------------------------------
+
+[09:18:46] Number of vehicle models: 174
+[09:19:27] [connection] 127.0.0.1:60394 requests connection cookie.
+[09:19:28] [connection] incoming connection: 127.0.0.1:60394 id: 0
+[09:19:28] [join] cfw)DarkZero[TL] has joined the server (0:127.0.0.1)
+[09:19:47] [register] cfw)DarkZero[TL] registred.
+[09:21:26] [command] [cfw)DarkZero[TL]] /atm
+[09:21:44] [command] [cfw)DarkZero[TL]] /atm
+[09:22:19] [bank] cfw)DarkZero[TL] deposited 50000$.
+[09:22:30] [part] cfw)DarkZero[TL] has left the server (0:1)
+[09:30:56] [reactiontest] Not math: kWz:3vWP
+[09:43:04] [reactiontest] Math: 66+15+96
+[09:55:13] [reactiontest] Not math: T$EU)mn:
+[10:07:21] [reactiontest] Math: 46-92+51
+[10:19:29] [reactiontest] Math: 14+77+56
+[10:31:38] [reactiontest] Not math: QTp5WEVM
+[10:43:47] [reactiontest] Not math: CX)HmE-T
+[10:55:55] [reactiontest] Not math: ywFT5HFz
+[11:08:04] [reactiontest] Not math: wovxeDGH
+[11:20:12] [reactiontest] Not math: 1jB(Oxrk
+[11:32:21] [reactiontest] Math: 0+9+58
+[11:44:30] [reactiontest] Math: 39-96+15
+[11:56:39] [reactiontest] Math: 2+4+91
+[12:08:48] [reactiontest] Not math: kBYd$HZc
+[12:20:56] [reactiontest] Not math: Txh6T;Rt
+[12:33:05] [reactiontest] Not math: 1Ve§C1&§
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:10:32] filterscripts = ""  (string)
+[16:10:32] 
+[16:10:32] Server Plugins
+[16:10:32] --------------
+[16:10:32]  Loading plugin: streamer.dll
+[16:10:32] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[16:10:32]   Loaded.
+[16:10:32]  Loaded 1 plugins.
+
+[16:10:32] 
+[16:10:32] Ban list
+[16:10:32] --------
+[16:10:32]  Loaded: samp.ban
+[16:10:32] 
+[16:10:32] 
+[16:10:32] Filterscripts
+[16:10:32] ---------------
+[16:10:32]   Loaded 0 filterscripts.
+
+[16:10:32] Gamemode will get loaded...
+[16:10:32] Loading accounts...
+[16:10:32] Loading races...
+[16:10:32] Loading anticheat...
+[16:10:32] Loading houses...
+[16:10:33] 
+----------------------------------
+[16:10:33]  XFS by Eagles-Clan wurde erfolgreich gestartet.
+[16:10:33] ----------------------------------
+
+[16:10:33] Number of vehicle models: 174
+[16:11:07] [connection] 127.0.0.1:53746 requests connection cookie.
+[16:11:08] [connection] incoming connection: 127.0.0.1:53746 id: 0
+[16:11:09] [join] cfw)DarkZero[TL] has joined the server (0:127.0.0.1)
+[16:12:02] [login] cfw)DarkZero[TL] logged in.
+[16:13:36] [race] Server loaded race "Vinewood Rallye".
+[16:13:45] [race] The race has started.
+Console input: gmx
+[16:15:30] [race] cfw)DarkZero[TL] has been dropped out of the race.
+[16:15:30] [race] The race has been finished.
+[16:15:30] [derby] The derby has finished.
+[16:15:42] Gamemode will get loaded...
+[16:15:42] Loading accounts...
+[16:15:42] Loading races...
+[16:15:42] Loading anticheat...
+[16:15:42] Loading houses...
+[16:15:42] 
+----------------------------------
+[16:15:42]  XFS by Eagles-Clan wurde erfolgreich gestartet.
+[16:15:42] ----------------------------------
+
+[16:15:42] Number of vehicle models: 174
+[16:15:46] [login] cfw)DarkZero[TL] logged in.
+[16:16:30] [race] Server loaded race "Vinewood Rallye".
+[16:16:35] [race] The race has started.
+[16:16:54] [race] cfw)DarkZero[TL] has dropped out of the race.
+[16:16:54] [race] The race has finished.
+[16:17:10] [derby] cfw)DarkZero[TL] choosed map "Mount Chiliad".
+[16:17:15] [derby] The derby has finished.
+[16:17:35] [derby] The derby has finished.
+[16:17:43] [command] [cfw)DarkZero[TL]] /cancel
+[16:18:00] [duel] cfw)DarkZero[TL]'s waiting for an opponent.
+[16:18:51] [chat] [cfw)DarkZero[TL]]: t
+[16:18:55] [fallout] The fallout has finished.
+[16:20:05] [chat] [cfw)DarkZero[TL]]: test
+[16:20:10] [part] cfw)DarkZero[TL] has left the server (0:1)
